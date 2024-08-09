@@ -17,3 +17,10 @@ bf-pixel
 senpai
 senpai-angry
 spirit
+bf-art
+bf-final
+garfield
+gorefield-phase-2
+gorefield-phase-3
+ps
+loading
